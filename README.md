@@ -1,3 +1,3 @@
-# My Git Learning Project
+# Git Practice
 
-Main branch version of README.
+Learning Git step by step.
